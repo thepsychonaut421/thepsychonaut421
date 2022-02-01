@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thepsychonaut421
 - 👀 I’m interested in coding, administrating & ethical hacking
-- 🌱 I’m currently learning IT-Support Specialist
-- 💞️ I’m looking to collaborate on ethical hacking
+- 💞️ I’m looking to collaborate on ethical hacking and co.
 - 📫 How to reach me on github
 
 <!---
