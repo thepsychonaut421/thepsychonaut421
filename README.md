@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @thepsychonaut421
-- 👀 I’m interested in coding, administrating & ethical hacking
-- 💞️ I’m looking to collaborate on ethical hacking and co.
-- 📫 How to reach me on github
+
 
 <!---
 thepsychonaut421/thepsychonaut421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
